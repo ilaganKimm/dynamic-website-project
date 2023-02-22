@@ -1,3 +1,3 @@
-# Dynamic Website Porject
+# Dynamic Website Project
 
-It is a ongoing project, a website for a Cafe.
+A website for a Cafe, temporarily I will put all of the files here.
