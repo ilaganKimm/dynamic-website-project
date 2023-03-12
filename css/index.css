@@ -508,10 +508,14 @@ nav a:hover{
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
 	html, body{
 		font-size: 100%;
+	}
+	
+	.content-wrapper{
+		padding-top: 15%;
 	}
 	
 	.column{
